@@ -3,6 +3,7 @@
 ### This was changed in first clone
 ### Changed in bad clone
 This is my true purpose in life
+# This is SUPERBRANCH
 README changed in my local copy
 New Change made in good copy
 Added new line in Other clone
